@@ -1,2 +1,6 @@
-# dataset_ufo1
-UFO data
+ rename columns
+ set correct data types
+ remove duplicates
+
+
+
